@@ -77,11 +77,11 @@ export default function HomePage() {
         <div className="header">
           <div className="pre-title">
             <span className="pulse-dot"></span>
-            <span>Premium xizmat</span>
+            <span>Ayollar oyoq kiyimi | Asmo Shop</span>
           </div>
           <h1 className="title">Eng yaxshi tanlov</h1>
           <p className="post-title">
-            Hozir ro'yxatdan o'ting va eksklyuziv bonus oling.
+            Eng sara oyoq kiyimlar
             Cheklangan miqdorda mavjud.
           </p>
         </div>
@@ -89,7 +89,8 @@ export default function HomePage() {
         {/* FORM */}
         <div className="form-section">
           <h2 className="form-title">Ariza yuborish</h2>
-          <p className="form-sub">5 daqiqa ichida siz bilan bog'lanamiz</p>
+          <p className="form-sub">🇹🇷 Turkiya
+🚚 Yandex va BTS</p>
 
           <form onSubmit={handleSubmit} noValidate>
             <div className="field">
